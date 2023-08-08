@@ -19,3 +19,11 @@ This project creates a minimal arduino working environment for the ESP8266 DSTIK
 | 3 | WI-FI |
 | 4 | MQTT |
 | 5 | SLEEP_MODE |
+
+# License
+
+Copyright 2020 #UlinProject Denis Kotlyarov (Денис Котляров)
+
+Licensed under the Apache License, Version 2.0
+
+<b>This project is provided as is without warranty of any kind.</b>
